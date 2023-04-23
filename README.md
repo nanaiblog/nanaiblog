@@ -1,9 +1,9 @@
-### Hi there :love_letter: 
+### :love_letter: Hello!
 
 
-- 📌 Graphic Designer, Frontend, Illustration
+- 📌 Graphic Design, Frontend, Illustration, 
 - 💻 I’m currently learning php, HUGO, and diving into backend
-- 👯 I am currently doing online marketing work and content creation.
+- 👯 I work on e-commerce, online marketing and content creation.
 - 🌿 Ask me about permaculture, design thinking, 📼 digital media production.
 
 
