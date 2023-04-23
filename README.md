@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there :love_letter: 
 
 
-**nanaiblog/nanaiblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nanaiblog/nanaiblog**
 
 Here are some ideas to get you started:
 
