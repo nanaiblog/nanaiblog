@@ -2,7 +2,7 @@
 
 
 - 📌 Graphic Design, Frontend, Illustration, 
-- 💻 I’m currently learning php, HUGO, and diving into backend
+- 💻 I’m currently learning python, HUGO, and Javascript.
 - 👯 I work on e-commerce, online marketing and content creation.
 - 🌿 Ask me about permaculture, design thinking, digital media production :iphone: 
 
